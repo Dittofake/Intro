@@ -7,7 +7,7 @@
     <body>
         <table cellspacing="20">
             <tr>
-                <td><img src="images/Anishma.png" alt="Anish picture" width="400"></td>
+                <td><img src="Images/Anishma.png" alt="Anish picture" width="400"></td>
                 <td><h1>Anish Fathima</h1>
                     <p><em>Project Manager at <strong>Integra Software Solutions</strong></em></p>
                     <p>I am managing a few journals under publisher <strong><a href="https://www.tandfonline.com/">T&F</a></strong></p></td>
