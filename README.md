@@ -18,7 +18,7 @@
       <h3>Education</h3>
       <ul>
         <li>Higher Secondary at AMHSS</li>
-        <li>Undergraduate degree (<em>B.Tech</em>) at AMHSS</li>
+        <li>Undergraduate degree (<em>B.Tech</em>) at PEC</li>
       </ul>
       <hr>
       <h3>My Hobbies</h3>
